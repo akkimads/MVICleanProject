@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="MainActivityKtTest">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="counterValue_with_emptyInput_displays_InvalidEntry()">
+        <State />
+      </entry>
+      <entry key="verify_if_all_views_exists()">
+        <State />
+      </entry>
+      <entry key="withInput_as_1_onButtonClick_displayOnTop()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
